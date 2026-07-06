@@ -36,8 +36,7 @@ Turning data into meaningful insights and business solutions through analytics a
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F61?style=for-the-badge)
 ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-6A5ACD?style=for-the-badge)
-
-
+![Microsoft Power Platform](https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
