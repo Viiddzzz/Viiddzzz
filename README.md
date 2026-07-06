@@ -28,9 +28,6 @@ Turning data into meaningful insights and business solutions through analytics a
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
-### 📊 Data Analytics & Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -40,7 +37,6 @@ Turning data into meaningful insights and business solutions through analytics a
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F61?style=for-the-badge)
 ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-6A5ACD?style=for-the-badge)
 
-### 🐍 Programming & Data Processing
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
