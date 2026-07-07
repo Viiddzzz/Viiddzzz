@@ -50,10 +50,23 @@ Turning data into meaningful insights and business solutions through analytics a
 
 ## 📌 Featured Projects
 
+- 💳 **Financial Fraud Detection using Machine Learning**  
+  https://github.com/Viiddzzz/financial-fraud-detection
+
+- 👁️ **Real-Time Face and Eye Detection using OpenCV**  
+  https://github.com/Viiddzzz/realtime-face-eye-detection
+
+- 📚 **Library Management System**  
+  https://github.com/Viiddzzz/Library-Management-System
+
 - Customer Revenue Intelligence Dashboard *(Coming Soon)*
+  
 - Healthcare Cost & Patient Risk Analysis *(Coming Soon)*
+  
 - Retail Inventory Optimization *(Coming Soon)*
+  
 - Sales Performance Dashboard *(Coming Soon)*
+  
 - HR Employee Attrition Analysis *(Coming Soon)*
 
 ---
